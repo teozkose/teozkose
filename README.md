@@ -1,6 +1,7 @@
 ## Projects
 
 - **[Price Elasticity and Markdown Optimization](https://github.com/teozkose/retail-price-elasticity-markdown)**: Estimates price elasticity per product from retail transactions, then picks a markdown plan with linear programming under inventory and margin constraints, with scenario comparison.
+- **[SQL KPI Dashboard](https://github.com/teozkose/sql-kpi-dashboard)**: Loads retail transactions into SQLite, answers business questions in SQL (revenue, retention, cohorts, top products), and serves the KPIs in a Streamlit dashboard.
 - **[A/B Test Analysis](https://github.com/teozkose/ab-test-analysis)**: End-to-end experiment analysis: power and sample-size planning, randomization checks, two-proportion and t tests with confidence intervals, and a one-page decision memo.
 - **[Weekly Demand Forecasting](https://github.com/teozkose/demand-forecasting-weekly-sales)**: Forecasts weekly units for top products with seasonal-naive and exponential-smoothing baselines versus gradient boosting with lag features, reported with MAE and MAPE on a holdout.
 - **[Delivery-Time Prediction](https://github.com/teozkose/uber-eats-delivery-time)**: XGBoost model predicting food-delivery minutes from distance, traffic, weather and courier factors, with SHAP and permutation importance and a PCA comparison.
